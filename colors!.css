@@ -1,0 +1,36 @@
+*{
+background-color:rgb(67, 116, 241);
+font-family: ;
+}
+
+p{
+    text-decoration-color: aquamarine;
+    text-decoration: solid;
+    text-decoration-
+}
+h2 .hell{
+    text-decoration: line-through;
+}
+
+.cont{
+    position: fixed;
+    background-color: #999;
+    height: 25vh;
+    width: 50vw
+    float: bottom;
+    float: right;
+}
+
+#LeftCol {
+    position: fixed;
+    
+    width: 150px;
+    overflow-y: scroll;
+    height: 40vh;
+    width: 40vw;
+}
+
+#RightCol{
+
+
+}
